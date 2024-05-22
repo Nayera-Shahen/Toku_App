@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993582396849",
+    "project_id": "auth-toku-app",
+    "storage_bucket": "auth-toku-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993582396849:android:c2dc1463014cacf7ab7990",
+        "android_client_info": {
+          "package_name": "com.example.toku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPNzYM4luJEfoP32yhnQWKfcUylXZZWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
